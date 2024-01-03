@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704240000 source:/home/fernando/Documentos/C++/Estudo-Classes-C++/Classe_carro/carro.cpp
+	<iostream>
+	"carro.h"
+
+1704240000 /home/fernando/Documentos/C++/Estudo-Classes-C++/Classe_carro/carro.h
+
+1704240000 source:/home/fernando/Documentos/C++/Estudo-Classes-C++/Classe_carro/main.cpp
+	<iostream>
+	"carro.h"
+
